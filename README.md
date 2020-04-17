@@ -32,4 +32,3 @@ Part 3: Emily - Design code to insert readings into certain parts of a .csv file
 
 ```
 Resources Consulted: 
-
